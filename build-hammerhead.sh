@@ -1,4 +1,4 @@
-export PLATFORM_DIR=~/AOSP/hh-kernel
+export PLATFORM_DIR=~/AOSP/device/lge/hammerhead-kernel
 export ARCH=arm
 export CROSS_COMPILE=arm-eabi-
 export PATH=~/AOSP/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin:$PATH

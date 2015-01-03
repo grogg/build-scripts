@@ -1,4 +1,4 @@
-export PLATFORM_DIR=~/AOSP/flo-kernel
+export PLATFORM_DIR=~/AOSP/device/asus/flo-kernel
 export ARCH=arm
 export CROSS_COMPILE=arm-eabi-
 export PATH=~/AOSP/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin:$PATH
