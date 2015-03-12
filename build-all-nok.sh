@@ -5,4 +5,6 @@ lunch aosp_hammerhead-userdebug
 make -j4 otapackage
 lunch aosp_flo-userdebug
 make -j4 otapackage
+lunch aosp_deb-userdebug
+make -j4 otapackage
 
